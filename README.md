@@ -28,3 +28,5 @@ Installing the extension:
 ## Currently developed bots
 - Mini Sudoku
 - Tango
+
+https://github.com/user-attachments/assets/f83f64ba-8c06-45ff-b2cf-740b2c74f1cf
