@@ -6,6 +6,12 @@
   "action": {
     "default_popup": "popup.html"
   },
+  "icons": {
+    "16": "tango-logo16.png",
+    "32": "tango-logo32.png",
+    "48": "tango-logo48.png",
+    "128": "tango-logo128.png"
+  },
   "permissions": [
     "activeTab",
     "scripting"
